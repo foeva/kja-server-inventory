@@ -1,5 +1,6 @@
 # Infrastructure Inventory App 
-Example of Infrastructure Inventory App built in Shiny with R 
+Example of Infrastructure Inventory App built in Shiny with R:  
+https://a6jxta-kate-adamczyk.shinyapps.io/Shiny_Inventory/ 
 
 This project was developed as part of my Data Science Degree, specifically for the Programming in R course. I saw this as an opportunity to tackle a real-life challenge I face at work: managing an infrastructure inventory.
 
